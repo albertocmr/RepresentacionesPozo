@@ -33,7 +33,7 @@ Mientras sea una versión de demostración, la web se sirve con `noindex` para n
 - Eliminar la cabecera `X-Robots-Tag` de `vercel.json`.
 
 ## Personalización pendiente antes de publicación
-- Sustituir el logotipo tipográfico provisional por el logotipo corporativo autorizado.
+- Si la empresa dispone del logotipo en vectorial (SVG), sustituir los PNG de `public/` (`logo*.png`, iconos y `og-image.jpg`), generados a partir del logotipo en PNG.
 - Validar textos, marcas, teléfonos, dirección y horario con la empresa.
 - Reemplazar fotografías de stock por imágenes corporativas con derechos de uso confirmados.
 - Conectar el formulario a un servicio de envío (Resend, Formspree u otro). Actualmente muestra un aviso de demostración y no envía datos.
