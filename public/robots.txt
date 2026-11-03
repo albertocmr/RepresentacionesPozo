@@ -1,0 +1,3 @@
+# Versión de demostración: no indexar hasta su publicación oficial.
+User-agent: *
+Allow: /
